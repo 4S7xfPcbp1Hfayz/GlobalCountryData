@@ -32,7 +32,3 @@ Contributions to improve GlobalCountryData are always welcome. Whether it's addi
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
-
----
-
-You can customize this template to better fit your project’s specifics. Also, ensure you create the contributing guidelines (`CONTRIBUTING.md`) and license file (`LICENSE.md`) if you reference them in the README.
